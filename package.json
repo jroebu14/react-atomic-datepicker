@@ -9,6 +9,7 @@
     "email": "jonathan.roebuck@bbc.co.uk",
     "url": "https://github.com/jroebu14"
   },
+  "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
     "test:coverage": "yarn test; open coverage/lcov-report/index.html",
