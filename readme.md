@@ -6,6 +6,10 @@
 $ npm install react-atomic-datepicker --save
 ```
 
+```
+$ yarn add react-atomic-datepicker
+```
+
 ## Usage
 
 Basic example https://codesandbox.io/s/react-atomic-calendar-ymcml?file=/src/Datepicker.jsx
