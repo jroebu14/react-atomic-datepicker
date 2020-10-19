@@ -8,6 +8,8 @@ $ npm install react-atomic-datepicker --save
 
 ## Usage
 
+Basic example https://codesandbox.io/s/react-atomic-calendar-ymcml?file=/src/Datepicker.jsx
+
 ```jsx
 import React from 'react'
 import { useAtomicDatepicker } from 'react-atomic-datepicker'
