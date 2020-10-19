@@ -1,6 +1,6 @@
 {
   "name": "react-atomic-datepicker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A super lightweight hook for building a custom datepicker for React",
   "license": "MIT",
   "repository": "jroebu14/react-atomic-datepicker",
