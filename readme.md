@@ -14,7 +14,7 @@ $ yarn add react-atomic-datepicker
 
 **Basic example**
 
-View basic example in [CodeSandbox](https://codesandbox.io/s/react-atomic-calendar-ymcml?file=/src/Datepicker.jsx)
+[Try it on CodeSandbox](https://codesandbox.io/s/react-atomic-calendar-ymcml?file=/src/Datepicker.jsx)
 
 ```jsx
 import React from 'react'
@@ -107,6 +107,6 @@ const Datepicker = () => {
 
 **Example with styles and animations**
 
-View more advanced example in [CodeSandbox](https://codesandbox.io/s/react-atomic-calendar-forked-xovnl?file=/src/App.js)
+[Try it on CodeSandbox](https://codesandbox.io/s/react-atomic-calendar-forked-xovnl?file=/src/App.js)
 
 This example uses [emotion](https://emotion.sh/docs/introduction) to demonstate basic styling and [react-spring](https://www.react-spring.io/) for animations.
