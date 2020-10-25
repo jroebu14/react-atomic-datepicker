@@ -1,5 +1,9 @@
 # react-atomic-datepicker [![Build Status](https://travis-ci.com/jroebu14/react-atomic-datepicker.svg?branch=master)](https://travis-ci.com/github/jroebu14/react-atomic-datepicker) [![codecov](https://codecov.io/gh/jroebu14/react-atomic-datepicker/badge.svg?branch=master)](https://codecov.io/gh/jroebu14/react-atomic-datepicker?branch=master)
 
+## Features
+- Super lightweight (gzipped size: 986 bytes)
+- Headless (100% customizable, Bring-your-own-UI)
+
 ## Install
 
 ```
